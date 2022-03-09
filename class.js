@@ -1,6 +1,6 @@
 class emp{
     display(){
-      console.log("employee"); 
+      console.log("employee")  
     }
 }
 let a=new emp();
